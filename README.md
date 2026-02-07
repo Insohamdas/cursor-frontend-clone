@@ -20,8 +20,12 @@ A pixel-perfect recreation of the Cursor website landing page.
 - **Secondary Accent**: `#EEECEC` (Off-white)
 - **Text Secondary**: `#999997` (Gray)
 
+## Live Preview
+
+website Link: https://cursor-soham.vercel.app/
+
 ## Screenshots
 
 Below are the screenshots of the final output:
 
-*(Add your screenshots here)*
+<img width="1598" height="7408" alt="image" src="https://github.com/user-attachments/assets/4fdd6ebe-a7d6-4dbe-88e5-14ccae8167e1" />
